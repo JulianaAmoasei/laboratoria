@@ -11,4 +11,4 @@
 #Exercício sozinho
 
 * Média três notas com tratamento
-* Se der tempo 
+* Se der tempo
