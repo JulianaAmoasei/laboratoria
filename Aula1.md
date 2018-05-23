@@ -1,8 +1,14 @@
 #Aula
 
-* booleano
+##Lógica booleana
+* `and &&`
+* `or ||`
+* `not !`
 
-* function
+##Funções
+
+
+_____
 
 #Exercício guiado
 
